@@ -17,6 +17,10 @@ export const siteConfig = {
     {
       title: "Create an AI Investment Bot",
       href: "/createaibot",
+    },
+    {
+      title: "Dashboard",
+      href: "/dashboard"
     }
   ],
   links: {

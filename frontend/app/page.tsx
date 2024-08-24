@@ -13,7 +13,7 @@ export default function Component() {
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2">
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                    Unlock the Power of Investing with BEVM
+                    Unlock the Power of Investing with BEVm
                   </h1>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">
                     Seamlessly invest across multiple blockchains with our advanced investment management platform.
@@ -27,12 +27,12 @@ export default function Component() {
                       Get Started
                     </Link>
                     <Link
-                      href="https://alvaraxchaininvestment.gitbook.io/alvaraxchaininvestment"
+                      href="/dashboard"
                       className="inline-flex h-10 items-center justify-center rounded-md border border-input bg-background px-8 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                       prefetch={false}
-                      target="_blank"
+                      // target="_blank"
                     >
-                      Learn More
+                      Dashboard
                     </Link>
                   </div>
                 </div>

@@ -23,7 +23,7 @@
     "@radix-ui/react-select": "^2.1.1",
     "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slider": "^1.2.0",
-    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-slot": "^1.1.0",
     "@radix-ui/react-tabs": "^1.1.0",
     "@wormhole-foundation/wormhole-connect": "^0.3.19",
     "apexcharts": "^3.44.2",
@@ -54,7 +54,7 @@
     "tailwind-merge": "^1.13.2",
     "tailwindcss-animate": "^1.0.6",
     "telegram-login-button": "^0.1.0",
-    "thirdweb": "^5.37.0",
+    "thirdweb": "^5.48.1",
     "utf-8-validate": "^6.0.4"
   },
   "devDependencies": {

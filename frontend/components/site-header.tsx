@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import {  Bevmtestnet } from "thirdweb/chains"
+import {  sepolia } from "thirdweb/chains"
 import { ConnectButton } from "thirdweb/react"
 import { createWallet, inAppWallet } from "thirdweb/wallets"
 
@@ -30,7 +30,7 @@ export function SiteHeader() {
             <ConnectButton
               client={client}
               wallets={wallets}
-              chains={[ Bevmtestnet]}
+              chains={[ sepolia]}
             />
 
             <ThemeToggle />
