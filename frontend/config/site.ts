@@ -7,7 +7,11 @@ export const siteConfig = {
   description: "Investment Strategies for the Future powered by AI",
   mainNav: [
     {
-      title : "Explore",
+      title: "Ordinals",
+      href: "/ordinals",
+    },
+    {
+      title: "Explore",
       href: "/getstarted",
     },
     {
@@ -20,8 +24,8 @@ export const siteConfig = {
     },
     {
       title: "Dashboard",
-      href: "/dashboard"
-    }
+      href: "/dashboard",
+    },
   ],
   links: {
     twitter: "https://x.com/",

@@ -1,5 +1,5 @@
 import { createThirdwebClient } from "thirdweb"
 
 export const client = createThirdwebClient({
-  clientId: process.env.NEXT_PUBLIC_CLIENT_ID!,
+  clientId: "9dbaca0c09760c29ab2aec57240823c9",
 })
