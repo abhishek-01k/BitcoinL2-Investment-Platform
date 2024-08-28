@@ -4,7 +4,7 @@ We have categorized different Runes and BRC20s based on multiple factors such as
 
 Below is our approach to group BRC20s and Runes into categories for different types of investors like Conservative, Moderate, and Degen (Aggressive) Investors.
 
-This approach ensures a balanced and data-driven way to group BitcoinL2 tokens according to investor specific profiles.
+This approach ensures a balanced and data-driven way to group BitcoinL2 tokens according to the investor specific profiles.
 
 ### Categorization Logic
 
