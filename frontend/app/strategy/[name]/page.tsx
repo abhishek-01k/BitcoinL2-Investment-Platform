@@ -182,7 +182,7 @@ const StrategyPage = ({ strategy, bts }) => {
           <TableHeader>
             <TableRow>
               <TableHead>Logo</TableHead>
-              <TableHead>BTS Details</TableHead>
+              <TableHead>BitcoinL2 Details</TableHead>
               <TableHead>Symbol</TableHead>
               <TableHead>Price</TableHead>
               <TableHead>Last24h Change</TableHead>

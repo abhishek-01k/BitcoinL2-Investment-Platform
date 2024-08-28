@@ -41,7 +41,7 @@ export default function MyBots() {
 
   useEffect(() => {
     if (isLoggedIn && id) {
-      const welcomeMessage = "Welcome to the XChain-BTS-Investment Bot!"
+      const welcomeMessage = "Welcome to the CrossChain-BitcoinL2-Investment Bot!"
       sendTelegramMessage(id, welcomeMessage)
         .then((response: any) => console.log("Message sent:", response))
         .catch((error: any) => console.error("Error:", error))
@@ -145,9 +145,9 @@ export default function MyBots() {
           <div className="">
             {!isLoggedIn ? (
               <TelegramLoginButton
-                botName="alvara_xchain_investment_bot"
+                botName="alvara_CrossChain_investment_bot"
                 dataOnauth={(user) => console.log(user)}
-                // dataAuthUrl="https://xchain-alvara-investments.vercel.app/myaibot"
+                // dataAuthUrl="https://CrossChain-alvara-investments.vercel.app/myaibot"
                 cornerRadius={5}
               />
             ) : (

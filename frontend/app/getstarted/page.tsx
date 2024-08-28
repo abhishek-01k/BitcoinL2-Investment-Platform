@@ -38,16 +38,16 @@ export default function Home() {
         const response = await res.json()
         const { docs } = response
 
-        // Send only top 10 BTS token
+        // Send only top 10 BitcoinL2 token
         const BTSData = docs
 
-        // for faster testing with only 10 BTS tokens
+        // for faster testing with only 10 BitcoinL2 tokens
         // const BTSData = docs.length > 10 ? docs.slice(0, 10) : docs
 
         const categorizedBTS = categorizeBTS(BTSData)
         setGroupedBTS(categorizedBTS)
       } catch (error) {
-        console.error("Error fetching BTS data:", error)
+        console.error("Error fetching BitcoinL2 data:", error)
       }
     }
 
@@ -59,7 +59,7 @@ export default function Home() {
   }
 
   const welcome = () => {
-    const welcomeMessage = "Welcome to AlvaraXChainInvestment !"
+    const welcomeMessage = "Welcome to AlvaraCrossChainInvestment !"
     sendTelegramMessage("kamalthedev", welcomeMessage)
       .then((response: any) => console.log("Message sent:", response))
       .catch((error: any) => console.error("Error:", error))

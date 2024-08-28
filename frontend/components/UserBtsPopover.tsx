@@ -43,7 +43,7 @@ const UserBtsPopover = ({
                     >
                         {selectedBTS
                             ? selectedBTS.btsDetails.name
-                            : "Select BTS..."}
+                            : "Select BitcoinL2..."}
                         <ChevronsUpDown className="ml-2 size-4 shrink-0 opacity-50" />
                     </Button>
                 </PopoverTrigger>

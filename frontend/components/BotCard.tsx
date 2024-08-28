@@ -68,13 +68,13 @@ export const BotCard: React.FC<BotCardProps> = ({
             <Card className="min-w-[450px]">
               <CardHeader>
                 <CardTitle className="flex justify-between">
-                  {index + 1}. BTS Basket
+                  {index + 1}. BitcoinL2 Basket
                   <Button onClick={() => handleCardClick(btsArray, index)}>
                     Select
                   </Button>
                 </CardTitle>
                 <CardDescription>
-                  Group of BTS Present in this basket{" "}
+                  Group of BitcoinL2 Present in this basket{" "}
                 </CardDescription>
               </CardHeader>
               <CardContent>

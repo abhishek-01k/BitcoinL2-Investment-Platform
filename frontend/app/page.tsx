@@ -184,7 +184,7 @@ export default function Component() {
                     </div>
                   </div>
                   <p className="text-muted-foreground">
-                    "BTS Investment has been a game-changer for my crypto\n portfolio. The seamless cross-chain
+                    "BitcoinL2 Investment has been a game-changer for my crypto\n portfolio. The seamless cross-chain
                     capabilities and\n AI-powered strategies have helped me maximize my returns\n while minimizing
                     risk."
                   </p>
@@ -203,7 +203,7 @@ export default function Component() {
                     </div>
                   </div>
                   <p className="text-muted-foreground">
-                    "The advanced analytics and reporting tools provided by BTS\n Investment have been invaluable in
+                    "The advanced analytics and reporting tools provided by BitcoinL2\n Investment have been invaluable in
                     helping me make\n data-driven decisions and optimize my portfolio. Highly\n recommended!"
                   </p>
                 </div>

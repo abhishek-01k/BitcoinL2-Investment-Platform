@@ -18,11 +18,11 @@ const ContributedBTS = ({ btscontributed }: { btscontributed: any[] }) => {
     <div className="mt-12 flex flex-col">
       <div className="mb-12 ml-12">
         <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
-          Contributed BTS Details
+          Contributed BitcoinL2 Details
         </h1>
 
         <p className="max-w-[700px] text-lg text-muted-foreground">
-          List of BTS that you have contributed
+          List of BitcoinL2 that you have contributed
         </p>
       </div>
 
@@ -32,7 +32,7 @@ const ContributedBTS = ({ btscontributed }: { btscontributed: any[] }) => {
           <TableHeader>
             <TableRow>
               <TableHead className="w-[100px]">Logo</TableHead>
-              <TableHead>BTS Details</TableHead>
+              <TableHead>BitcoinL2 Details</TableHead>
               <TableHead>Symbol</TableHead>
               <TableHead>Price</TableHead>
               <TableHead>Last24h Change</TableHead>
@@ -89,7 +89,7 @@ const ContributedBTS = ({ btscontributed }: { btscontributed: any[] }) => {
       ) : (
         <div className="flex flex-col items-center justify-center">
           <p className="max-w-[700px] text-lg text-muted-foreground">
-            You have not contributed to any BTS
+            You have not contributed to any BitcoinL2
           </p>
         </div>
       )}

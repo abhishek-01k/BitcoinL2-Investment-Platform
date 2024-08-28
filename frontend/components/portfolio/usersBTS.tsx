@@ -16,11 +16,11 @@ const UsersBTS = ({ createdBTS }: { createdBTS: any[] }) => {
     <div className="mt-12 flex flex-col">
       <div className="mb-12 ml-12">
         <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
-          My BTS Details
+          My BitcoinL2 Details
         </h1>
 
         <p className="max-w-[700px] text-lg text-muted-foreground">
-          List of BTS that you have created
+          List of BitcoinL2 that you have created
         </p>
       </div>
 
@@ -30,7 +30,7 @@ const UsersBTS = ({ createdBTS }: { createdBTS: any[] }) => {
           <TableHeader>
             <TableRow>
               <TableHead className="w-[100px]">Logo</TableHead>
-              <TableHead>BTS Details</TableHead>
+              <TableHead>BitcoinL2 Details</TableHead>
               <TableHead>Symbol</TableHead>
               <TableHead>Price</TableHead>
               <TableHead>Last24h Change</TableHead>
@@ -87,7 +87,7 @@ const UsersBTS = ({ createdBTS }: { createdBTS: any[] }) => {
       ) : (
         <div className="flex flex-col items-center justify-center">
           <p className="max-w-[700px] text-lg text-muted-foreground">
-            You have not contributed to any BTS
+            You have not contributed to any BitcoinL2
           </p>
         </div>
       )}
