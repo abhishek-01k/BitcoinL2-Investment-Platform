@@ -5,3 +5,4 @@ The investment landscape is evolving, and with the introduction of the ERC-7621 
 Welcome to the CrossChain BitcoinL2 Investment Management Litepaper 📜 ! \
 \
 Here you'll get an overview of all the amazing features that we have to offer to help you make the most of your investments utilsing the ERC-7621.
+
