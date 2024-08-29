@@ -23,6 +23,10 @@
 * [Normalization](how-it-works/normalization.md)
 * [Weighting Factors](how-it-works/weighting-factors.md)
 
+## Supported Chains
+
+* [List](supported-chains/chains.md)
+
 ## Telegram Bot
 
 * [Telegram Bot Overview](telegram-bot/overview.md)
