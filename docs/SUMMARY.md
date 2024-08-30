@@ -19,6 +19,13 @@
 * [Overview](how-it-works/overview.md)
 * [Architecture Diagram](how-it-works/architecture-diagram.md)
 * [Automated Transactions](how-it-works/automated-transactions.md)
+* [Algorithm Testing Validation](how-it-works/algorithm-testing-validation.md)
+* [Normalization](how-it-works/normalization.md)
+* [Weighting Factors](how-it-works/weighting-factors.md)
+
+## Supported Chains
+
+* [List](supported-chains/chains.md)
 
 ## Telegram Bot
 
