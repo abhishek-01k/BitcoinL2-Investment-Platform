@@ -24,10 +24,17 @@ The AI Trading Model is designed to predict and assess the potential of various 
 
 ### 4. **Visualization**
    - **Engagement Scores Bar Chart**: Displays the total engagement scores for each rune, providing a quick comparison of their market potential.
-   - **Stacked Bar Chart with Contribution Breakdown**: Each rune's engagement score is broken down into its constituent parts, showing how much each metric contributed to the overall score.
-   - **Percentile Ranks for Key Metrics**: A comparison of the top runes' performance across various metrics, normalized into percentile ranks.
-   - **Tree Map of Runes by Volume**: A visual representation of the trading volume for each rune, helping to identify which runes dominate the market.
 
+![Alt Text](g4.png)
+
+   - **Stacked Bar Chart with Contribution Breakdown**: Each rune's engagement score is broken down into its constituent parts, showing how much each metric contributed to the overall score.
+![Alt Text](g3.png)
+
+   - **Percentile Ranks for Key Metrics**: A comparison of the top runes' performance across various metrics, normalized into percentile ranks.
+![Alt Text](g2.png)
+
+   - **Tree Map of Runes by Volume**: A visual representation of the trading volume for each rune, helping to identify which runes dominate the market.
+![Alt Text](g1.png)
 
 
 ## Insights
