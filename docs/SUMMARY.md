@@ -22,7 +22,8 @@
 * [Algorithm Testing Validation](how-it-works/algorithm-testing-validation.md)
 * [Normalization](how-it-works/normalization.md)
 * [Weighting Factors](how-it-works/weighting-factors.md)
-
+* [Model Analysis](how-it-works/model-analysis.md)
+* [Customize your Strategy](how-it-works/customize-your-strategy.md)
 ## Supported Chains
 
 * [List](supported-chains/chains.md)
